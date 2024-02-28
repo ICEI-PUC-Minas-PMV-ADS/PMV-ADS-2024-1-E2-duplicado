@@ -28,10 +28,10 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Alunos              | Receber doações e conseguir mostrar a rotina e o desenvolvimento do aluno na escola.  | Com a clareza de informações disponível na aplicação fica mais fácil aos empreenderes saber a real necessidade daquele aluno em situação de carência social. |
-|Empreendedor Social | Alterar permissões                 | Permitir que possam administrar contas |
-|Professores         | Alterar permissões                 | Permitir que possam administrar contas |
-|Pais e Mães         | Alterar permissões                 | Permitir que possam administrar contas |
+|Alunos              | Receber doações e conseguir mostrar a rotina e o desenvolvimento do aluno na escola.  | Com a clareza de informações disponível na aplicação fica mais fácil aos empreenderes saber a real necessidade daquele aluno em situação de carência social, podendo assim contribuir com mais foco na real necessidade do aluno. |
+|Empreendedor Social | Encontrar maneiras eficientes de conectar doadores aos beneficiários, podendo assim ter uma oportunidade de ampliar o alcance de sua iniciativa e tornar o processo de doação mais transparente e acessível. | Permitir ter acesso a uma plataforma na qual empreendedores consigam visualizar com facilidade a necessidade de crianças carentes, sendo assim realizar doações com foco na necessidade especifica dos alunos e poder garantir transparência a outros doadores e manter a criança dentro da escola em seu ano letivo, diminuindo faltas e índice de reprovação que por muita das vezes ocorre devido a falta de alimento para a criança e sua família, falta de material e uniforme escolar infelizmente por motivos como esses crianças em situação de vulnerabilidade abandonam a escola.|
+|Professores         | Conectar doadores a crianças/alunos necessitadas, fornecendo-lhes os recursos financeiros e educacionais de que precisam para o andamento do ano letivo. | Compartilhar suas ideias e seus conhecimentos pedagógicos, como lançamento de notas, observação do aluno dentro e fora de aula, dentre outros fatores na qual a sua vivencia como professora ira garantir que a plataforma seja intuitiva e eficaz para todos os usuários dando visibilidade e transparecia sobre a rotina do estudante. |
+|Pais e Mães         | Informar ao administrador,                 | ... |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
