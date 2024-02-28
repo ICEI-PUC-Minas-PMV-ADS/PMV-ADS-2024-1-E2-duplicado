@@ -2,7 +2,7 @@
 
 Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
 
-## Problema
+## Contexto
 
 O ECA, Estatuto da Criança e do Adolescente (lei 8069, sancionada em 13 de julho de 1990), define que jovens e crianças têm assegurados todas as oportunidades e facilidades, a fim de lhes facultar o desenvolvimento físico, mental, moral, espiritual e social, em condições de liberdade e de dignidade. 
 
@@ -28,6 +28,14 @@ A cada ano, ela realiza o seu “Cenário da Infância e Adolescência no Brasil
 De acordo com seu levantamento, o Brasil alcançou, em 2023, a marca de 11,7 milhões de crianças e adolescentes em situação de pobreza e 10,6 milhões em situação de extrema pobreza. Ao todo, temos 22,3 milhões de crianças, ou seja, metade da população infanto-juvenil estão vivendo em condição de baixa renda.
 
 Imagem dos mapas da abrinq
+
+## Problema
+
+Viver em condição de baixa renda dificulta a garantia dos direitos fundamentais para o desenvolvimento adequado das crianças. Muitas delas não tem acesso amplo a educação e nutrição adequada, bem como boas condições de vestuário, lazer e ferramentas de aprendizado.
+
+Para conseguir suprir estas lacunas, famílias com crianças e adolescentes em comunidades carentes frequentemente recorrem a ajudas e donativos derivados de projetos sociais e voluntários, além das próprias instituições e associações, e os programas governamentais, como escolas integradas e de transferência de renda, como Bolsa-família.
+
+Porém, mesmo com apoios e auxílios existentes, nem sempre eles são suficientes, ou ainda não conseguem chegar a todos que precisam.
 
 
 
